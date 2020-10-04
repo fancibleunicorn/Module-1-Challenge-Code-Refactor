@@ -10,6 +10,6 @@ List of Code Improvements:
 
 *Made all img end brackets consisent 
 
-*Moved README file to assets to fix loading issue on Github Pages
-
 *Reordered CSS classes based on HTML layout
+
+*Moved index.html file to main folder and fixed image pathways to fix loading issue on GitHub pages
